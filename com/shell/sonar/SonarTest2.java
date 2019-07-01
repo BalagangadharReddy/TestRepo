@@ -8,6 +8,6 @@ public static void main(String[] args) {
 }
 int mymethod(int i,int j)
 {
-	return i+j;
+	return 5;
 	}
 }
